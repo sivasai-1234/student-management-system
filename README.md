@@ -12,7 +12,8 @@ A structured Student Management System built with Python and SQLite, demonstrati
 ## Technologies Used
 - Python
 - SQLite
-- Git & GitHub
+- Git
+- GitHub
 
 ## Author
 Siva Sai
